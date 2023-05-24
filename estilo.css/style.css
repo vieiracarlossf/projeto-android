@@ -48,7 +48,7 @@ header p{
  font-size: 1.2em;
  max-width: 630px;
  margin:auto;
- margin-bottom:auto;
+ padding-bottom: 50px;
  padding-top: 10px;
  text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.493) ;
  
@@ -174,5 +174,6 @@ footer > a{
 footer a:hover{
     text-decoration:underline;
     color: red;
+    line-height: 10px;
 
 }
